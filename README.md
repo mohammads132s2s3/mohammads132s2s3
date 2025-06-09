@@ -1,11 +1,11 @@
+<h1 align="center">Hi 👋, I'm MHMD</h1>
+<h3 align="center">A passionate developer who loves code and coffee ☕</h3>
 
-# 👋🏻 Hi, I'm MHMD
-
-I'm a passionate developer working with a range of technologies to build efficient and modern software solutions.
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" align="right">
 
 ---
 
-### 🛠️ Technologies & Tools
+### 🛠️ Languages & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -17,11 +17,26 @@ I'm a passionate developer working with a range of technologies to build efficie
 
 ---
 
-### 📫 Contact Me
+### 📊 GitHub Stats
 
-- Telegram: (https://t.me/mhmd01001)
-- Email: msmkinggam9@gmail.com
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="top-langs" />
+</p>
 
 ---
 
-> 💡 *Always learning. Always building.*
+### 📫 Connect with Me
+
+- 📬 Telegram: (https://t.me/mhmd01001)
+- Gmail : msmkinggam9@gmail.com
+
+---
+
+### 🎵 Fact
+
+> 💡 I Always learning , Always building😎
+
+---
+
+![gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
