@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm MHMD</h1>
 <h3 align="center">A passionate developer who loves code and coffee ☕</h3>
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" align="right">
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200"/>
+</p>
 
 ---
 
@@ -14,20 +16,25 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ---
 
 ### 📫 Connect with Me
 
-- 📬 Telegram: (https://t.me/mhmd01001)
-- Gmail : msmkinggam9@gmail.com
+- 📬 Telegram: [@mhmd01001](https://t.me/mhmd01001)
+- ✉ Gmail: msmkinggam9@gmail.com
 
 ---
 
 ### 🎵 Fact
 
-> 💡 I Always learning , Always building😎
+> 💡 I Always learning, Always building 😎
 
----
-
-![gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+</p>
